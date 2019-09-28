@@ -1,6 +1,6 @@
 # kickstarter-analysis
 
--In this project we look at data from various kickstarter campaigns across different countries and categories to help Louise start her campaign.
+- In this project we look at data from various kickstarter campaigns across different countries and categories to help Louise start her campaign.
 
 ## findings
 
